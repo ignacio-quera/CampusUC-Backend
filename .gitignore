@@ -1,8 +1,4 @@
 .env
 
 # Node Modules
-node_modules
-
-# Build Folder
-build
-
+node_modules/

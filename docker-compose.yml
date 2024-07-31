@@ -15,8 +15,8 @@ services:
       always
     depends_on:
       - db
-    networks:
-      - app-network
+    # networks:
+    #   - app-network
 
   db:
     image: postgres:12
